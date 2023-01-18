@@ -33,3 +33,4 @@ app.MapControllerRoute(
     pattern: "{controller=OgrenciTopluluklari}/{action=Index}/{id?}");
 
 app.Run();
+
